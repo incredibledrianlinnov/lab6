@@ -73,6 +73,6 @@ ___
 Архитектура Seaborn позволяет вам быстро изучить и понять свои данные. Seaborn захватывает целые фреймы данных или массивы, в которых содержатся все ваши данные, и выполняет все внутренние функции, нужные для семантического маппинга и статистической агрегации для преобразования данных в информативные графики.
 ___
 ### С помощью данной библиотеки также удалось визуализировать результирующую матрицу для вышеописанного результата работы программы:
-!(https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_4.png)
-!(https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_5.png)
-!(https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_6.png)
+![alt text](https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_4.png "Figure_4.png")
+![alt text](https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_5.png "Figure_5.png")
+![alt text](https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_6.png "Figure_6.png")
