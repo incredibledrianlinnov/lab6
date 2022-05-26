@@ -65,9 +65,9 @@ ___
 ### Matplotlib — библиотека на языке программирования Python для визуализации данных двумерной и трёхмерной графикой. Получаемые изображения могут быть использованы в качестве иллюстраций в публикациях.
 ___
 ### С помощью данной библиотеки удалось визуализировать результирующую матрицу для вышеописанного результата работы программы: 
-!(https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_1.png)
-!(https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_2.png)
-!(https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_3.png)
+![alt text](https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_1.png "Figure_1.png")
+![alt text](https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_2.png "Figure_2.png")
+![alt text](https://github.com/incredibledrianlinnov/lab6/blob/main/report_images/Figure_3.png "Figure_3.png")
 ___
 ### Seaborn — это библиотека для создания статистических графиков на Python. Она основывается на matplotlib и тесно взаимодействует со структурами данных pandas.
 Архитектура Seaborn позволяет вам быстро изучить и понять свои данные. Seaborn захватывает целые фреймы данных или массивы, в которых содержатся все ваши данные, и выполняет все внутренние функции, нужные для семантического маппинга и статистической агрегации для преобразования данных в информативные графики.
